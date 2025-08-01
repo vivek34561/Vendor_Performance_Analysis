@@ -209,3 +209,4 @@ vendor_env\*
 vendor_env/*
 /data
 /inventory.db
+/vendor_sales_summary.csv

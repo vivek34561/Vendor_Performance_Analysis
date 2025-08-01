@@ -1,0 +1,5 @@
+outs:
+- md5: be066eb0394eb5dc13e0d9068c374523
+  size: 2170676
+  hash: md5
+  path: vendor_sales_summary.csv
