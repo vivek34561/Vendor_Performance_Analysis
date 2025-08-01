@@ -208,3 +208,4 @@ __marimo__/
 vendor_env\*
 vendor_env/*
 /data
+/inventory.db
