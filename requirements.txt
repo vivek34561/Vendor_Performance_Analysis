@@ -1,0 +1,8 @@
+pandas
+ipykernel
+sqlalchemy
+numpy
+matplotlib
+seaborn
+scipy
+dvc
