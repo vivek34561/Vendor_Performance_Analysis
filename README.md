@@ -175,7 +175,7 @@ All Python dependencies are listed in `requirements.txt`:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Copyright (c) 2025 vivek kumar gupta
+Copyright (c) 2025 Vivek Kumar Gupta
 
 ## 🤝 Contributing
 
